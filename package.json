@@ -1,0 +1,34 @@
+{
+    "name": "dark--italic-theme",
+    "displayName": "Dark* Italic Theme",
+    "description": "A comfortable theme mixing cherry and dracukai",
+    "publisher": "minh chiucam",
+    "version": "0.0.1",
+    "keywords": [
+        "Dark* Italic Theme",
+        "Italic",
+        "italic",
+        "dark",
+        "dark*",
+        "theme",
+        "color-theme",
+        "Cherry",
+        "Dracukai",
+        "Dracula"
+    ],
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark* Italic theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Italic theme-color-theme.json"
+            }
+        ]
+    }
+}
